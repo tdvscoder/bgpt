@@ -3,3 +3,5 @@
 
 # bgpt
 Linux Shell AI App
+
+Work In Progress
